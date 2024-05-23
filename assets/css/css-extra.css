@@ -1,0 +1,95 @@
+@import url('https://fonts.googleapis.com/css2?family=Elsie+Swash+Caps&family=IM+Fell+French+Canon+SC&family=IM+Fell+Great+Primer+SC&family=Open+Sans&family=Raleway&display=swap');
+.navbar-brand {
+    font-family: 'IM Fell Great Primer SC', serif;
+  }
+
+  .navbar-brand:hover {
+    color: #69db34 !important;
+
+  }
+
+ 
+
+  
+
+  .col-lg-7 {
+    white-space: nowrap;
+  }
+
+  
+
+  .inp {
+    border-radius: 5px;
+
+
+
+  }
+  .img-fluid{
+    width: 30px;
+    height: 30px;
+
+  }
+
+  /*instrucciones generales*/
+  * {
+    margin: auto;
+  }
+
+  /*cabecera de la página*/
+  h1 {
+    text-align: center;
+    padding: 0.5em;
+  }
+
+
+
+ 
+  .navbar{
+      background: #fccb90;
+
+  /* Chrome 10-25, Safari 5.1-6 */
+  background: -webkit-linear-gradient(to right, #ee7724, #d8363a, #dd3675, #b44593);
+
+  /* W3C, IE 10+/ Edge, Firefox 16+, Chrome 26+, Opera 12+, Safari 7+ */
+  background: linear-gradient(to right, #000000, #403f44, #060607, #000000);
+  }
+  
+
+    
+    .w-100{
+        overflow-x:hidden;
+    }
+    /* estudiantes */
+    .col-lg-2{
+      background-color: #003566;
+      color: #ffffff;
+    }
+    .form-select{
+      background-color: #003566!important; 
+      color: rgb(255, 255, 255)!important;  
+      border: none !important;
+      margin-top: 15px !important;
+      font-size: 17px!important;
+    }
+    .col-lg-3{
+      background-color: #003566;
+      color: #ffffff;
+    }
+ .col-lg-5{
+
+overflow-x: hidden;
+
+
+
+ }
+/* .col-xl-7{
+  height: 550px;
+overflow: scroll;
+overflow-x: hidden;
+} */
+
+.imgLogo{
+  width: 30px;
+  height: 30px;
+}
+
